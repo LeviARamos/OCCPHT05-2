@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+}
+
+
+#box{
+    transform: translateX(50%) rotateZ(30deg) scale(1.1);
+}
+.box1{
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    font-size: 13em;
+    text-align: center;
+    background-color: hsla(180, 98%, 53%, 0.521);
+    
+
+    /* transform: translateX();
+    transform: translateY(); 
+    transform: translate(-100px,100px);*/
+
+    /* transform: rotate();
+    transform: rotateX();
+    transform: rotateY();
+    transform: rotateZ();*/
+
+    /* transform: scale();
+    transform: scaleX();
+    transform: scaleY();
+    transform: scaleZ(1.4);*/
+  
+
+    /* transform: skew();
+    transform: skewX();
+    transform: skewY(10deg);*/
+
+
+    /* transform: matrix();
+    transform: matrix3d();
+    transform: matrixAutoRotate();
+    transform: matrixAutoScale();
+    transform: matrix3dAutoRotate();
+    transform: matrix3dAutoScale();
+    transform: matrix3dTranslate();
+    transform: matrix3dRotate();
+    transform: matrix3dScale();
+    transform: matrix3dSkewX();
+    transform: matrix3dSkewY();
+    transform: matrix3dPerspective();
+    transform: matrix3dTranslateX();
+    transform: matrix3dTranslateY();
+    transform: matrix3dTranslateZ();
+    transform: matrix3dRotateX();
+    transform: matrix3dRotateY();
+    transform: matrix3dRotateZ();
+    transform: matrix3dScaleX();
+    transform: matrix3dScaleY();
+    transform: matrix3dScaleZ();
+    transform: matrix3dSkew();
+    transform: matrix3dPerspective();
+    transform:*/
+    
+
+
+    /* transform: perspective();
+    transform: perspective(100px);*/
+
+
+    /* transform: translateX(100%) rotateZ(30deg) scale(0.3) skew(30deg); */
+}
+
+.box2{
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    font-size: 13em;
+    text-align: center;
+    background-color: hsla(145, 100%, 39%, 0.521);
+}
+
+.box3{ 
+    
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    font-size: 13em;
+    text-align: center;
+    background-color: hsla(310, 94%, 42%, 0.521);
+}
+
